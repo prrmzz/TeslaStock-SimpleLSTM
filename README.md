@@ -1,1 +1,2 @@
 # TeslaStock-SimpleLSTM
+This project uses Tesla's stock price data to teach how to preprocess time-series data, build and train an LSTM model for forecasting, and evaluate its performance. It demonstrates key concepts like sequence modeling, normalization, and overfitting prevention using dropout and early stopping. The results are visualized to compare predicted vs. actual prices, making it a practical introduction to deep learning for financial forecasting.
